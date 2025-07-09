@@ -11,14 +11,12 @@ A simple JavaScript-based business name generator that shows a random unique nam
 ## 🛠 Tech Stack
 
 - HTML
-- CSS (optional)
 - JavaScript
 
 ## 📁 Files
 
 - `index.html`
 - `script.js`
-- `style.css` (if used)
 
 ## 👨‍💻 Author
 
